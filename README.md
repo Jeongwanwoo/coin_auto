@@ -1,5 +1,8 @@
 # [Title] 가상화폐 변동성 이용 전략 기반 자동매매 시스템
 --------
+## [Backgroud]
+
+* 
 
 ## [environment]
 
