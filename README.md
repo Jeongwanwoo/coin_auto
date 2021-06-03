@@ -8,7 +8,7 @@
 
 ## [Run]
 * Main.py, functions.py, get_ValuedAssets.py 본인 API키 입력
-https://user-images.githubusercontent.com/85176433/120662146-db30b000-c4c3-11eb-8123-16af6ff84615.PNG
+<img width="80%" src="https://user-images.githubusercontent.com/85176433/120662146-db30b000-c4c3-11eb-8123-16af6ff84615.PNG"/>
 업비트 홈페이지에서 키발급 
 * functions.py 파일에서 한 코인당 투자금액인 UNIT 설정
 * Main.py 파일에서 윈도우 드레싱 목표금액 설정
