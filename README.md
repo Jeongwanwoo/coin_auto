@@ -9,11 +9,7 @@
 ## [Result]
 
 #### 실행 화면
-* 검색 화면
-<img width="80%" src="https://user-images.githubusercontent.com/85176433/120652180-7a50aa00-c4ba-11eb-8942-b6795388ea45.png"/>
-
-* 결과 화면
-<img width="80%" src="https://user-images.githubusercontent.com/85176433/120652227-863c6c00-c4ba-11eb-8237-dbf1feec26b2.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/85176433/120659853-b9362e00-c4c1-11eb-9797-caa9602e0ae5.gif"/>
 
 ## [effect]
 
