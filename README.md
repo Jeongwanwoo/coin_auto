@@ -3,18 +3,12 @@
 
 ## [environment]
 
-* Python3.9
-* python library : flask, sklearn, pandas, matplotlib, seaborn 
-
-## [Dataset]
-
-* 서울특별시_우리마을가게 상권분석서비스(상권_추정매출)
-* 서울특별시_우리마을가게 상권분석서비스(상권_추정유동인구)
-* 서울특별시_우리마을가게 상권분석서비스(상권_상주인구)
+* Python3.9, Slack, parsec
+* python library : pyupbit, requests, pandas, time, datetime
 
 ## [Result]
 
-#### 화면구성
+#### 실행 화면
 * 검색 화면
 <img width="80%" src="https://user-images.githubusercontent.com/85176433/120652180-7a50aa00-c4ba-11eb-8942-b6795388ea45.png"/>
 
