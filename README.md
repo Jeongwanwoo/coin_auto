@@ -12,6 +12,8 @@
 
 * 업비트 홈페이지에서 키발급 
 
+
+
 2. functions.py 파일에서 한 코인당 투자금액인 UNIT 설정
 
 3. Main.py 파일에서 윈도우 드레싱 목표금액 설정
@@ -20,6 +22,8 @@
 <img width="80%" src="https://user-images.githubusercontent.com/85176433/120662694-509c8080-c4c4-11eb-8519-8a459b77db13.PNG"/>
 
 * Slack홈페이지에서 토큰발급
+
+
 
 5. Main.py 에서 실행  
 
